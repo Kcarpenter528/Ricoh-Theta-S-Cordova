@@ -1,10 +1,10 @@
 # Ricoh-Theta-S-Cordova
 ##IF YOU VALUE YOUR SANITY AT ALL MAKE SURE YOUR RICOH FIRMWARE IS UP TO DATE!
-###Also, this code really sucks and probably shouldn't be used in a production environemt, it hasn't been tested other than me making sure I think it does what it should do. It's just a proof of concept.
+###Also, this code really sucks and probably shouldn't be used in a production environemt, it hasn't been tested other than me making sure I think it does what it should do. It's just a proof of concept.I'm putting this out there because I really just couldn't find anyone else doing anything like this other than some hints that it was possible. 
 
 This requires 2 Cordova Plugins: 
-http-advanced-2 (allows us to set JSON data in a post request instead of FORM data)
 
+http-advanced-2 (allows us to set JSON data in a post request instead of FORM data)
 https://github.com/silkimen/cordova-plugin-advanced-http
 
 
