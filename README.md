@@ -1,5 +1,7 @@
 # Ricoh-Theta-S-Cordova
 ##IF YOU VALUE YOUR SANITY AT ALL MAKE SURE YOUR RICOH FIRMWARE IS UP TO DATE!
+###Also, this code really sucks and probably shouldn't be used in a production environemt, it hasn't been tested other than me making sure I think it does what it should do. It's just a proof of concept.
+
 This requires 2 Cordova Plugins: 
 http-advanced-2 (allows us to set JSON data in a post request instead of FORM data)
 
