@@ -36,3 +36,5 @@ So whats my thought process here on this code step by step:
 6) Get a selected photo onto the device(Theta.downloadCameraPhotoToDevice(file_url))
 
 7) Remove the photo from the Theta (Theta.deleteFileFromTheta(file))
+
+In theory this should connect with more than the Ricoh Theta S, it's not really doing much Theta S specific. And the Theta conforms to Googles OSC Open Spherical Camera API. So maybe Bubbler and Samsung Gear 360 can be made to work with relative ease (I had the Gear 360 and didn't really like how it had to be put into OSC mode every start up...wasn't very "tool" friendly so much as a neat gadget. Also the gear 360 doesn't do on device stiching I don't think, so you have to figure that out your self.)
